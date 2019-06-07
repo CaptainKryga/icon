@@ -1,0 +1,447 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="icon"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jbashiri/Desktop/icon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jbashiri/Desktop/icon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jbashiri/Desktop/icon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="icon">
+				<Option output="/Users/jbashiri/Desktop/icon/cmake-build-debug/icon" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jbashiri/Desktop/icon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 icon"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="icon/fast">
+				<Option output="/Users/jbashiri/Desktop/icon/cmake-build-debug/icon" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jbashiri/Desktop/icon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 icon/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/jbashiri/Desktop/icon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jbashiri/Desktop/icon/bmp_reader/array_file_type.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/bmp_reader/bmp_info.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/bmp_reader/get_blocks.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/bmp_reader/glob_texture_funks.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/bmp_reader/my_doom.h">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/bmp_reader/rle_file_type.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/bmp_reader/texture_add_funks.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/head.h">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/help.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_char.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_float_and_l.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_float_upl.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_h_hh_unsigned_integer.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_h_hh_upx.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_h_hh_x.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_h_o.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_hh_o.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_j.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_l_ll_u.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_l_ll_upx.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_l_ll_x.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_l_o.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_ll_o.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_pointer.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_procent.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_str.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_three.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_two.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_u.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_upx.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analise_x.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analyse_integer.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/analyse_o.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/check_flags_di.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/check_flags_upxxuo.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/check_flags_upxxuo2.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/create_struct.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/float_help.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/float_help_part_two.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/float_help_part_two_upl.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/float_help_upl.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/ft_litoa.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/ft_llitoa.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/ft_printf.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/ft_printf.h">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/ft_printf_three.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/ft_printf_two.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/ft_width_for_int.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_atio_hex.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_atoi.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_atoi_error.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_bzero.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_copyuntil.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_isalnum.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_isalpha.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_isascii.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_isdigit.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_isprint.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_itoa.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_lstadd.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_lstdel.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_lstdelone.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_lstiter.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_lstmap.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_lstnew.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_memalloc.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_memccpy.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_memchr.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_memcmp.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_memcpy.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_memdel.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_memmove.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_memset.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_power.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_putchar.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_putchar_fd.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_putendl.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_putendl_fd.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_putnbr.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_putnbr_fd.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_putstr.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_putstr_fd.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strcat.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strchr.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strclr.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strcmp.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strcpy.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strdel.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strdup.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strequ.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_striter.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_striteri.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strjoin.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strjoinch.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strlcat.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strlen.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strmap.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strmapi.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strncat.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strncmp.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strncpy.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strnequ.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strnew.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strnstr.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strrchr.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strsplit.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strstr.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strsub.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_strtrim.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_tolower.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/ft_toupper.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/get_next_line.h">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/libft/libft.h">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/new.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/print_null_i.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/print_pointer.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/libftprintf/print_string.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/main.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/players.c">
+			<Option target="icon"/>
+		</Unit>
+		<Unit filename="/Users/jbashiri/Desktop/icon/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
